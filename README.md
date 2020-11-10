@@ -2,3 +2,5 @@
 
 ### Hi there 👋
 
+📝 Blog: [Luke's Blog](https://blog.itnaodong.com/)<br>
+📫 Mail: gdjiegz@gmail.com<br>
